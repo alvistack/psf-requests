@@ -1,0 +1,3 @@
+python-requests source: no-debian-changes
+python-requests source: source-contains-prebuilt-windows-binary
+python-requests source: source-package-encodes-python-version
