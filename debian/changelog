@@ -1,0 +1,5 @@
+python-requests (100:2.28.0-3) UNRELEASED; urgency=medium
+
+  * https://github.com/psf/requests/releases/tag/v2.28.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Sun, 26 Jun 2022 12:19:40 +0800
